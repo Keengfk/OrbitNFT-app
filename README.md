@@ -20,6 +20,22 @@ OrbitNFT brings true on-chain NFT ownership to Stellar using Soroban smart contr
 - **Platform:** Soroban (Stellar Smart Contracts)
 - **Network:** Stellar Testnet
 
+## ✅ Live on Stellar Testnet
+
+This contract is deployed and verified on Stellar Testnet.
+
+**Contract ID:**
+
+CBU7UVJM7FAXB7AHCDMTKVJSUEE3PVTV2ROFOKO2P3IC4IKRTB45IHFA
+
+**View on Stellar Expert:**
+https://stellar.expert/explorer/testnet/contract/CBU7UVJM7FAXB7AHCDMTKVJSUEE3PVTV2ROFOKO2P3IC4IKRTB45IHFA
+
+**First NFT minted — Token #0:**
+- Transaction: https://stellar.expert/explorer/testnet/tx/8f82bca40538570bd1bbc13a3f325d4d018294a7bc66ea39000e384317bfd0f4
+- Owner: `GBXEX2HCVWAG7JMCZIDZCEDFMQVLE6VZJ2LVIYACNO4CQQEHTUWDOOOJ`
+- Name: "First OrbitNFT"
+
 ## 🚀 Getting Started
 
 ### Prerequisites
